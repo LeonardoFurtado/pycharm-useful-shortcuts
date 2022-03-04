@@ -8,6 +8,8 @@
 
 * Ctrl + Shift + Up || Down : Move line (or selection) up/down.
 
+* Ctrl + Shift + Left || Right : Select one word per time.
+
 * Alt + Shift + Up || Down : Move line (or selection) up/down. (TODO: See differences)
 
 * Alt + Shift + L: Ident code.
