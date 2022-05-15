@@ -6,6 +6,8 @@
 
 * Ctrl + W: Select current word (press again to select full string).
 
+* Ctrl + Alt + Shift + J: Select all occurrences of a word in current file
+
 * Ctrl + Shift + Up || Down : Move line (or selection) up/down.
 
 * Ctrl + Shift + Left || Right : Select one word per time.
