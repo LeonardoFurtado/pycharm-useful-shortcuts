@@ -16,4 +16,6 @@
 
 * Alt + Shift + L: Ident code.
 
+* Alt + Shift + V: Transform the selected code into a variable. 
+
 * Fn + Left || Right : Move to beginning or to the end of line.
